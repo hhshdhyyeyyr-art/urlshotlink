@@ -1,1 +1,21 @@
 
+{
+  "name": "teleshort-api",
+  "version": "1.0.0",
+  "description": "Backend API for TeleShort Earning System",
+  "author": "WebApp Sikho",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.x"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0"
+  },
+  "keywords": [
+    "telegram",
+    "mini-app",
+    "url-shortener",
+    "monetag",
+    "vercel"
+  ]
+}
